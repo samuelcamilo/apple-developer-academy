@@ -1,0 +1,1234 @@
+﻿[
+ {
+   "A": "Cod",
+   "B": "Linha"
+ },
+ {
+   "A": "4",
+   "B": "004 - Messejana/Papicu/Cambeba/TJ/1"
+ },
+ {
+   "A": "11",
+   "B": "011 - Circular I/1"
+ },
+ {
+   "A": "12",
+   "B": "012 - Circular II/1"
+ },
+ {
+   "A": "13",
+   "B": "013 - Aguanambi I/1"
+ },
+ {
+   "A": "14",
+   "B": "014 - Aguanambi II/1"
+ },
+ {
+   "A": "15",
+   "B": "015 - Cj Ceará/Antônio Bezerra I/1"
+ },
+ {
+   "A": "16",
+   "B": "016 - Cuca Barra/Papicu/1"
+ },
+ {
+   "A": "17",
+   "B": "017 - Inter Shoppings/1"
+ },
+ {
+   "A": "19",
+   "B": "019 - Messejana/Papicu/Manibura/1"
+ },
+ {
+   "A": "21",
+   "B": "021 - Luciano Cavalcante/Papicu/1"
+ },
+ {
+   "A": "22",
+   "B": "022 - Jardim das Oliveiras/Centro/1"
+ },
+ {
+   "A": "23",
+   "B": "023 - Edson Queiroz/Papicu (Corujão)/1"
+ },
+ {
+   "A": "24",
+   "B": "024 - Antônio Bezerra/Lagoa/Unifor/1"
+ },
+ {
+   "A": "25",
+   "B": "025 - Opaia/Lagoa/1"
+ },
+ {
+   "A": "26",
+   "B": "026 - Antônio Bezerra/Messejana/1"
+ },
+ {
+   "A": "27",
+   "B": "027 - Siqueira/Papicu/Aeroporto/1"
+ },
+ {
+   "A": "28",
+   "B": "028 - Antônio Bezerra/Papicu/1"
+ },
+ {
+   "A": "29",
+   "B": "029 - Parangaba/Náutico/1"
+ },
+ {
+   "A": "30",
+   "B": "030 - Siqueira/Papicu/13 de Maio/1"
+ },
+ {
+   "A": "31",
+   "B": "031 - Av. Borges de Melo I/1"
+ },
+ {
+   "A": "32",
+   "B": "032 - Av. Borges de Melo II/1"
+ },
+ {
+   "A": "33",
+   "B": "033 - Circular I (Corujão)/1"
+ },
+ {
+   "A": "34",
+   "B": "034 - Av. Paranjana I (Corujão)/1"
+ },
+ {
+   "A": "35",
+   "B": "035 - Av. Paranjana II (Corujão)/1"
+ },
+ {
+   "A": "36",
+   "B": "036 - Cj Ceará/Papicu/Montese (Corujão)/1"
+ },
+ {
+   "A": "37",
+   "B": "037 - Cj Ceará/Aldeota (Corujão)/1"
+ },
+ {
+   "A": "38",
+   "B": "038 - Parangaba/Papicu/1"
+ },
+ {
+   "A": "39",
+   "B": "039 - Av. Bezerra de Menezes (Corujão)/1"
+ },
+ {
+   "A": "40",
+   "B": "040 - Parangaba/Lagoa/1"
+ },
+ {
+   "A": "41",
+   "B": "041 - Parangaba/Oliveira Paiva/Papicu/1"
+ },
+ {
+   "A": "42",
+   "B": "042 - Antônio Bezerra/Francisco Sá/Papicu/1"
+ },
+ {
+   "A": "43",
+   "B": "043 - Cj Ceará/Lagoa/Fernandes Távora/1"
+ },
+ {
+   "A": "44",
+   "B": "044 - Parangaba/Papicu/Montese/1"
+ },
+ {
+   "A": "45",
+   "B": "045 - Cj Ceará/Papicu/Montese/1"
+ },
+ {
+   "A": "46",
+   "B": "046 - Cj Ceará (Corujão)/1"
+ },
+ {
+   "A": "47",
+   "B": "047 - Av. José Bastos/Centro (Corujão)/1"
+ },
+ {
+   "A": "48",
+   "B": "048 - Parangaba/Papicu (Corujão)/1"
+ },
+ {
+   "A": "50",
+   "B": "050 - Siqueira/Papicu/Washington Soares/1"
+ },
+ {
+   "A": "51",
+   "B": "051 - Grande Circular I/1"
+ },
+ {
+   "A": "52",
+   "B": "052 - Grande Circular II/1"
+ },
+ {
+   "A": "53",
+   "B": "053 - Messejana/Papicu/Washington Soares/1"
+ },
+ {
+   "A": "54",
+   "B": "054 - Praia do Futuro/Caça e Pesca (Corujão)/1"
+ },
+ {
+   "A": "55",
+   "B": "055 - Grande Circular I (Corujão)/1"
+ },
+ {
+   "A": "56",
+   "B": "056 - Grande Circular II (Corujão)/1"
+ },
+ {
+   "A": "57",
+   "B": "057 - Jardim Iracema  (Corujão)/1"
+ },
+ {
+   "A": "58",
+   "B": "058 - Jardim Guanabara/Nova Ass II (Corujão)/1"
+ },
+ {
+   "A": "59",
+   "B": "059 - Av. Sargento Herminio  (Corujão)/1"
+ },
+ {
+   "A": "60",
+   "B": "060 - Parquelândia/Parangaba/1"
+ },
+ {
+   "A": "61",
+   "B": "061 - Linha Central/Via Centro Fashion/1"
+ },
+ {
+   "A": "62",
+   "B": "062 - Cj Esperança (Corujão)/1"
+ },
+ {
+   "A": "63",
+   "B": "063 - Bom Jardim  (Corujão)/1"
+ },
+ {
+   "A": "64",
+   "B": "064 - Corujão/Aeroporto/Centro/Rodoviária/1"
+ },
+ {
+   "A": "65",
+   "B": "065 - Barroso/Jardim Violeta  (Corujão)/1"
+ },
+ {
+   "A": "66",
+   "B": "066 - Parangaba/Papicu/Aeroporto/1"
+ },
+ {
+   "A": "67",
+   "B": "067 - Lagoa/Albert Sabin/1"
+ },
+ {
+   "A": "68",
+   "B": "068 - Messejana/Papicu/Cambeba/LJ/1"
+ },
+ {
+   "A": "69",
+   "B": "069 - Lagoa/Papicu/Via Expressa/1"
+ },
+ {
+   "A": "70",
+   "B": "070 - Cuca Barra/Parangaba/1"
+ },
+ {
+   "A": "71",
+   "B": "071 - Antônio Bezerra/Mucuripe/1"
+ },
+ {
+   "A": "72",
+   "B": "072 - Antônio Bezerra/Parangaba/1"
+ },
+ {
+   "A": "73",
+   "B": "073 - Siqueira/Praia de Iracema/1"
+ },
+ {
+   "A": "74",
+   "B": "074 - Antônio Bezerra/Unifor/1"
+ },
+ {
+   "A": "75",
+   "B": "075 - Campus do Pici / Unifor/1"
+ },
+ {
+   "A": "76",
+   "B": "076 - Cj Ceará/Aldeota/1"
+ },
+ {
+   "A": "77",
+   "B": "077 - Parangaba/Mucuripe/1"
+ },
+ {
+   "A": "78",
+   "B": "078 - Siqueira/Mucuripe (Dom-Fer)/1"
+ },
+ {
+   "A": "79",
+   "B": "079 - Antônio Bezerra/Náutico/1"
+ },
+ {
+   "A": "80",
+   "B": "080 - Fco Sá/Parangaba/1"
+ },
+ {
+   "A": "81",
+   "B": "081 - Cj Ceará/Antônio Bezerra II/1"
+ },
+ {
+   "A": "82",
+   "B": "082 - Antônio Bezerra/Messejana/Perimetral/1"
+ },
+ {
+   "A": "83",
+   "B": "083 - Cj Ceará/Lagoa/Augusto dos Anjos/1"
+ },
+ {
+   "A": "84",
+   "B": "084 - Siqueira/Messejana/Perimetral/1"
+ },
+ {
+   "A": "85",
+   "B": "085 - Lagoa/Aldeota/1"
+ },
+ {
+   "A": "86",
+   "B": "086 - Bezerra de Menezes/Santos Dumont/1"
+ },
+ {
+   "A": "87",
+   "B": "087 - Expresso/Siqueira/Papicu/1"
+ },
+ {
+   "A": "88",
+   "B": "088 - Antônio Bezerra/Albert Sabin/1"
+ },
+ {
+   "A": "89",
+   "B": "089 - Expresso/Parangaba/Papicu/1"
+ },
+ {
+   "A": "90",
+   "B": "090 - Montese (Corujão)/1"
+ },
+ {
+   "A": "91",
+   "B": "091 - Expresso/Antônio Bezerra/Parangaba/1"
+ },
+ {
+   "A": "92",
+   "B": "092 - Antônio Bezerra/Papicu/Praia de Iracema/1"
+ },
+ {
+   "A": "93",
+   "B": "093 - Expresso/Messejana/Papicu/1"
+ },
+ {
+   "A": "94",
+   "B": "094 - Expresso/Parangaba/Aldeota/1"
+ },
+ {
+   "A": "95",
+   "B": "095 - Cj Pref José Walter (Corujão)/1"
+ },
+ {
+   "A": "96",
+   "B": "096 - Cj Ceará/Barão de Studart/1"
+ },
+ {
+   "A": "97",
+   "B": "097 - Antônio Bezerra/Siqueira/1"
+ },
+ {
+   "A": "98",
+   "B": "098 - Expresso/Antônio Bezerra/Papicu/1"
+ },
+ {
+   "A": "99",
+   "B": "099 - Siqueira/Mucuripe/Br. de Studart/1"
+ },
+ {
+   "A": "101",
+   "B": "101 - Beira Rio/1"
+ },
+ {
+   "A": "102",
+   "B": "102 - Vila Sto Ant/Nsa Sra Graças/1"
+ },
+ {
+   "A": "106",
+   "B": "106 - Floresta/Centro/1"
+ },
+ {
+   "A": "108",
+   "B": "108 - Santa Maria/Bairro Ellery/1"
+ },
+ {
+   "A": "110",
+   "B": "110 - Vila do Mar/Centro/1"
+ },
+ {
+   "A": "111",
+   "B": "111 - Jardim Iracema/1"
+ },
+ {
+   "A": "112",
+   "B": "112 - Álvaro Weyne/Centro/1"
+ },
+ {
+   "A": "114",
+   "B": "114 - Cj Nova Assunção/Fco Sá/1"
+ },
+ {
+   "A": "115",
+   "B": "115 - Jardim Guanabara/Centro/1"
+ },
+ {
+   "A": "120",
+   "B": "120 - Vila do Mar/Náutico/Antônio Bezerra I/1"
+ },
+ {
+   "A": "122",
+   "B": "122 - Antônio Bezerra/Álvaro Weyne/1"
+ },
+ {
+   "A": "130",
+   "B": "130 - Vila do Mar/Náutico/Antônio Bezerra II/1"
+ },
+ {
+   "A": "132",
+   "B": "132 - Vila Santo Antônio/Riomar Kennedy/1"
+ },
+ {
+   "A": "140",
+   "B": "140 - Vila do Mar/Centro II/1"
+ },
+ {
+   "A": "200",
+   "B": "200 - Antônio Bezerra/Centro/1"
+ },
+ {
+   "A": "205",
+   "B": "205 - Dom Lustosa/1"
+ },
+ {
+   "A": "206",
+   "B": "206 - Padre Andrade/Antônio Bezerra/1"
+ },
+ {
+   "A": "210",
+   "B": "210 - Quintino Cunha/Antônio Bezerra/1"
+ },
+ {
+   "A": "211",
+   "B": "211 - Vila Velha/Antônio Bezerra/1"
+ },
+ {
+   "A": "212",
+   "B": "212 - Jardim Guanabara/Nova Assunção I/1"
+ },
+ {
+   "A": "213",
+   "B": "213 - Jardim Guanabara/Nova Assunção II/1"
+ },
+ {
+   "A": "214",
+   "B": "214 - Estação/Pio Saraiva I/1"
+ },
+ {
+   "A": "215",
+   "B": "215 - Autran Nunes/1"
+ },
+ {
+   "A": "216",
+   "B": "216 - Antônio Bezerra/1"
+ },
+ {
+   "A": "217",
+   "B": "217 - Estação/Pio Saraiva II/1"
+ },
+ {
+   "A": "220",
+   "B": "220 - Av. Sargento Herminio/1"
+ },
+ {
+   "A": "221",
+   "B": "221 - Vila Velha/Riomar Kennedy/1"
+ },
+ {
+   "A": "222",
+   "B": "222 - Antônio Bezerra/Papicu/Antônio Sales/1"
+ },
+ {
+   "A": "225",
+   "B": "225 - João Arruda/1"
+ },
+ {
+   "A": "226",
+   "B": "226 - Expresso/Antônio Bezerra/Messejana/1"
+ },
+ {
+   "A": "244",
+   "B": "244 - Antonio Bezerra/Parangaba/Montese/1"
+ },
+ {
+   "A": "260",
+   "B": "260 - Quintino Cunha/Riomar Kennedy/1"
+ },
+ {
+   "A": "286",
+   "B": "286 - Expresso/Antônio Bezerra/Santos Dumont/1"
+ },
+ {
+   "A": "300",
+   "B": "300 - Siqueira/Centro/Expresso/1"
+ },
+ {
+   "A": "302",
+   "B": "302 - Rodolfo Teofílo/José Bastos/1"
+ },
+ {
+   "A": "303",
+   "B": "303 - Igreja São Raimundo/1"
+ },
+ {
+   "A": "304",
+   "B": "304 - Bela Vista/Lagoa/1"
+ },
+ {
+   "A": "305",
+   "B": "305 - Bela Vista/Humberto Monte/1"
+ },
+ {
+   "A": "307",
+   "B": "307 - Itaoca/Jardim América/1"
+ },
+ {
+   "A": "308",
+   "B": "308 - Democrito Rocha/1"
+ },
+ {
+   "A": "309",
+   "B": "309 - Cj Sumaré/Parangaba/1"
+ },
+ {
+   "A": "310",
+   "B": "310 - Campus Universitários/Pan Americano/1"
+ },
+ {
+   "A": "311",
+   "B": "311 - Castelão/Parangaba/SP1/1"
+ },
+ {
+   "A": "312",
+   "B": "312 - Dias Macedo/Parangaba/1"
+ },
+ {
+   "A": "313",
+   "B": "313 - Parangaba/Alto da Paz/1"
+ },
+ {
+   "A": "314",
+   "B": "314 - Henrique Jorge/1"
+ },
+ {
+   "A": "315",
+   "B": "315 - Messejana/Parangaba/1"
+ },
+ {
+   "A": "316",
+   "B": "316 - Genibaú/Centro/1"
+ },
+ {
+   "A": "317",
+   "B": "317 - Cidade Nova/Parangaba/1"
+ },
+ {
+   "A": "319",
+   "B": "319 - Parque São Jose/Osório Paiva/1"
+ },
+ {
+   "A": "320",
+   "B": "320 - João XXIII/Centro/1"
+ },
+ {
+   "A": "321",
+   "B": "321 - Jardim União/Parangaba/1"
+ },
+ {
+   "A": "322",
+   "B": "322 - Granja Portugal/Lagoa/1"
+ },
+ {
+   "A": "325",
+   "B": "325 - Aracapé/Siqueira/1"
+ },
+ {
+   "A": "327",
+   "B": "327 - Cj Ceará/4ª Etapa/1"
+ },
+ {
+   "A": "328",
+   "B": "328 - Castelão/Parangaba/SP2/1"
+ },
+ {
+   "A": "329",
+   "B": "329 - Parque Santa Rosa/Siqueira/1"
+ },
+ {
+   "A": "330",
+   "B": "330 - Cj Esperança/Siqueira/1"
+ },
+ {
+   "A": "331",
+   "B": "331 - Cj Esperança/Centro/1"
+ },
+ {
+   "A": "332",
+   "B": "332 - Siqueira/Lagoa/1"
+ },
+ {
+   "A": "333",
+   "B": "333 - Bom Jardim/Centro/1"
+ },
+ {
+   "A": "334",
+   "B": "334 - Monte Rei/Siqueira/1"
+ },
+ {
+   "A": "335",
+   "B": "335 - Bom Jardim I/1"
+ },
+ {
+   "A": "336",
+   "B": "336 - Parque Santa Cecilia I/1"
+ },
+ {
+   "A": "337",
+   "B": "337 - Jardim Jatobá/Siqueira I/1"
+ },
+ {
+   "A": "338",
+   "B": "338 - Canindezinho/1"
+ },
+ {
+   "A": "339",
+   "B": "339 - Cj Veneza Tropical/Mirasol I/1"
+ },
+ {
+   "A": "340",
+   "B": "340 - Cj Itapery/1"
+ },
+ {
+   "A": "341",
+   "B": "341 - Cj Ceará/Centro/3ª Etapa/1"
+ },
+ {
+   "A": "342",
+   "B": "342 - Parque São Vicente/1"
+ },
+ {
+   "A": "343",
+   "B": "343 - Cj Ceará/Centro/2ª Etapa/1"
+ },
+ {
+   "A": "344",
+   "B": "344 - Vila Betânia/Parangaba/1"
+ },
+ {
+   "A": "345",
+   "B": "345 - Cj Ceará/Siqueira/1"
+ },
+ {
+   "A": "346",
+   "B": "346 - Jardim Fluminense/1"
+ },
+ {
+   "A": "347",
+   "B": "347 - Cj José Walter/Parangaba/Av. L/1"
+ },
+ {
+   "A": "349",
+   "B": "349 - Cj Veneza Tropical/Mirasol II/1"
+ },
+ {
+   "A": "350",
+   "B": "350 - Av. José Bastos/Lagoa/1"
+ },
+ {
+   "A": "351",
+   "B": "351 - Jóquei/Bonsucesso/1"
+ },
+ {
+   "A": "353",
+   "B": "353 - Parangaba/Parque Veras/1"
+ },
+ {
+   "A": "354",
+   "B": "354 - Conj. Novo Lar/Siqueira/2"
+ },
+ {
+   "A": "355",
+   "B": "355 - Siqueira/José Bastos/1"
+ },
+ {
+   "A": "356",
+   "B": "356 - Genibaú/Lagoa/1"
+ },
+ {
+   "A": "357",
+   "B": "357 - Cj Ceará/Granja Lisboa/1"
+ },
+ {
+   "A": "359",
+   "B": "359 - Santa Tereza/1"
+ },
+ {
+   "A": "360",
+   "B": "360 - Siqueira/João Pessoa/1"
+ },
+ {
+   "A": "361",
+   "B": "361 - Siqueira/Osório de Paiva/Parangaba/1"
+ },
+ {
+   "A": "362",
+   "B": "362 - Siqueira/Vila Manoel Satiro/Parangaba/1"
+ },
+ {
+   "A": "363",
+   "B": "363 - Vila Manoel Sátiro/Centro/1"
+ },
+ {
+   "A": "364",
+   "B": "364 - Lagoa/Riomar Kennedy/Via Av. José Jatai/1"
+ },
+ {
+   "A": "365",
+   "B": "365 - Bela Vista/Viriato Ribeiro/1"
+ },
+ {
+   "A": "366",
+   "B": "366 - Bom Jardim II/1"
+ },
+ {
+   "A": "367",
+   "B": "367 - Cj Ceará/Bom Jardim/SP1/1"
+ },
+ {
+   "A": "368",
+   "B": "368 - Cj Ceará/Bom Jardim/SP2/1"
+ },
+ {
+   "A": "369",
+   "B": "369 - Parque Presidente Vargas/1"
+ },
+ {
+   "A": "371",
+   "B": "371 - Parangaba/José Bastos/1"
+ },
+ {
+   "A": "372",
+   "B": "372 - Aracapé/Parangaba I/1"
+ },
+ {
+   "A": "374",
+   "B": "374 - Aracapé/Centro/1"
+ },
+ {
+   "A": "375",
+   "B": "375 - Aracapé/Parangaba II/2"
+ },
+ {
+   "A": "376",
+   "B": "376 - Parque Santa Cecilia II/1"
+ },
+ {
+   "A": "377",
+   "B": "377 - Cj José Walter/Parangaba/Av. J/1"
+ },
+ {
+   "A": "378",
+   "B": "378 - Urucutuba/1"
+ },
+ {
+   "A": "379",
+   "B": "379 - Cj Esperança/Parangaba/1"
+ },
+ {
+   "A": "381",
+   "B": "381 - Santa Maria/Siqueira/1"
+ },
+ {
+   "A": "382",
+   "B": "382 - Parque Jerusalém/1"
+ },
+ {
+   "A": "383",
+   "B": "383 - Parque São João/Siqueira/1"
+ },
+ {
+   "A": "384",
+   "B": "384 - Parque Santana/1"
+ },
+ {
+   "A": "386",
+   "B": "386 - Planalto Granja Lisboa/1"
+ },
+ {
+   "A": "387",
+   "B": "387 - Jardim Jatobá/Centro/1"
+ },
+ {
+   "A": "388",
+   "B": "388 - Cj Tatu Mundé/1"
+ },
+ {
+   "A": "389",
+   "B": "389 - Jovita Feitosa/Shopping Benfica/1"
+ },
+ {
+   "A": "390",
+   "B": "390 - Parangaba/João Pessoa/1"
+ },
+ {
+   "A": "391",
+   "B": "391 - Passaré/Parangaba/1"
+ },
+ {
+   "A": "392",
+   "B": "392 - Nova Esperança/Siqueira/1"
+ },
+ {
+   "A": "393",
+   "B": "393 - Miguel Arraes/Siqueira/1"
+ },
+ {
+   "A": "394",
+   "B": "394 - Parque Universitários/Lagoa I/1"
+ },
+ {
+   "A": "395",
+   "B": "395 - Sítio Córrego/Parangaba/1"
+ },
+ {
+   "A": "397",
+   "B": "397 - Jardim Jatobá/Siqueira II/1"
+ },
+ {
+   "A": "398",
+   "B": "398 - Av. José Bastos/Genibau (Corujão)/1"
+ },
+ {
+   "A": "398",
+   "B": "398 - Av. José Bastos/Genibaú (Corujão)/1"
+ },
+ {
+   "A": "399",
+   "B": "399 - Cidade Jardim/Parangaba/1"
+ },
+ {
+   "A": "401",
+   "B": "401 - Montese/Parangaba/1"
+ },
+ {
+   "A": "403",
+   "B": "403 - Parangaba/Centro/Expedicionários/1"
+ },
+ {
+   "A": "404",
+   "B": "404 - Aeroporto/Benfica/Rodoviária/1"
+ },
+ {
+   "A": "405",
+   "B": "405 - Parque Dois Irmãos/Expedicionários/1"
+ },
+ {
+   "A": "406",
+   "B": "406 - Planalto Ayrton Senna/Expedicionários/1"
+ },
+ {
+   "A": "407",
+   "B": "407 - Cj José Walter/Expedicionários/1"
+ },
+ {
+   "A": "411",
+   "B": "411 - Montese/Lagoa/1"
+ },
+ {
+   "A": "421",
+   "B": "421 - Montese/Lagoa/Parangaba/1"
+ },
+ {
+   "A": "456",
+   "B": "456 - Planalto Ayrton Senna/Parangaba/1"
+ },
+ {
+   "A": "466",
+   "B": "466 - Arvoredo/Parangaba/1"
+ },
+ {
+   "A": "501",
+   "B": "501 - Bairro de Fátima/1"
+ },
+ {
+   "A": "502",
+   "B": "502 - Vila União/1"
+ },
+ {
+   "A": "503",
+   "B": "503 - Av. 13 de Maio/Rodoviária I/1"
+ },
+ {
+   "A": "504",
+   "B": "504 - Av. 13 de Maio/Rodoviária II/1"
+ },
+ {
+   "A": "513",
+   "B": "513 - Parangaba/UECE/Luciano Carneiro/1"
+ },
+ {
+   "A": "600",
+   "B": "600 - Messejana/Centro/Frei Cirilo/1"
+ },
+ {
+   "A": "601",
+   "B": "601 - Aerolândia/SP1/1"
+ },
+ {
+   "A": "602",
+   "B": "602 - Parque Pio XII/Ana Goncalves/1"
+ },
+ {
+   "A": "603",
+   "B": "603 - Jardim União/Centro/1"
+ },
+ {
+   "A": "604",
+   "B": "604 - Dias Macedo/Centro/1"
+ },
+ {
+   "A": "605",
+   "B": "605 - José Walter/Br 116/Av. I/1"
+ },
+ {
+   "A": "606",
+   "B": "606 - José Walter/Br 116/Av. N/1"
+ },
+ {
+   "A": "609",
+   "B": "609 - Cidade dos Funcionários/Sitio São José/1"
+ },
+ {
+   "A": "610",
+   "B": "610 - Cidade dos Funcionários/Cj Alvorada/1"
+ },
+ {
+   "A": "611",
+   "B": "611 - Cidade Func/Cofeco/Lago Jacarey/1"
+ },
+ {
+   "A": "612",
+   "B": "612 - Cj Tancredo Neves/Novo Lagamar/1"
+ },
+ {
+   "A": "613",
+   "B": "613 - Barroso/Jardim Viôleta/1"
+ },
+ {
+   "A": "615",
+   "B": "615 - Paupina/Lagoa Redonda (Corujão)/1"
+ },
+ {
+   "A": "616",
+   "B": "616 - Lagoa Redonda I/1"
+ },
+ {
+   "A": "617",
+   "B": "617 - Lagoa Redonda/Abreulândia/1"
+ },
+ {
+   "A": "618",
+   "B": "618 - Parque Santa Rosa/Messejana/1"
+ },
+ {
+   "A": "619",
+   "B": "619 - Paupina/1"
+ },
+ {
+   "A": "620",
+   "B": "620 - Pedras (Corujão)/1"
+ },
+ {
+   "A": "621",
+   "B": "621 - Pedras I/1"
+ },
+ {
+   "A": "622",
+   "B": "622 - Pedras II/1"
+ },
+ {
+   "A": "625",
+   "B": "625 - Parque Manibura/Borges Melo/1"
+ },
+ {
+   "A": "626",
+   "B": "626 - Lagoa Redonda II/1"
+ },
+ {
+   "A": "627",
+   "B": "627 - Lagoa Redonda/Papicu/1"
+ },
+ {
+   "A": "628",
+   "B": "628 - Sítio São João/Santa Maria/1"
+ },
+ {
+   "A": "629",
+   "B": "629 - Cj Palmeiras/Perimetral/1"
+ },
+ {
+   "A": "630",
+   "B": "630 - Itamaraty/Elizabeth II/1"
+ },
+ {
+   "A": "631",
+   "B": "631 - Carlos Albuquerque/1"
+ },
+ {
+   "A": "632",
+   "B": "632 - Alto Alegre/Messejana/1"
+ },
+ {
+   "A": "633",
+   "B": "633 - Passaré/Centro/1"
+ },
+ {
+   "A": "634",
+   "B": "634 - Lagoa Redonda/Abreulândia/Esquerda/1"
+ },
+ {
+   "A": "635",
+   "B": "635 - Cj Tamandaré/1"
+ },
+ {
+   "A": "636",
+   "B": "636 - Cj Palmeiras/Parque Santa Maria/1"
+ },
+ {
+   "A": "637",
+   "B": "637 - Cj Maria Tomásia/Santa Filomena/1"
+ },
+ {
+   "A": "640",
+   "B": "640 - Cj Alvorada/Messejana/1"
+ },
+ {
+   "A": "641",
+   "B": "641 - Guajerú I/1"
+ },
+ {
+   "A": "642",
+   "B": "642 - Guajerú II/1"
+ },
+ {
+   "A": "643",
+   "B": "643 - Barroso Circular/1"
+ },
+ {
+   "A": "644",
+   "B": "644 - Lagoa Redonda/Abreulândia/Litorânea/1"
+ },
+ {
+   "A": "645",
+   "B": "645 - João Paulo II/1"
+ },
+ {
+   "A": "646",
+   "B": "646 - São Cristóvão/1"
+ },
+ {
+   "A": "648",
+   "B": "648 - Cidade Nobre/Messejana/1"
+ },
+ {
+   "A": "650",
+   "B": "650 - Messejana/Centro/Br Nova/Expresso/1"
+ },
+ {
+   "A": "653",
+   "B": "653 - Santa Fé/1"
+ },
+ {
+   "A": "655",
+   "B": "655 - Passaré/Messejana/1"
+ },
+ {
+   "A": "656",
+   "B": "656 - Messejana/Sabiaguaba/Direita/1"
+ },
+ {
+   "A": "657",
+   "B": "657 - Messejana/Sabiaguaba/Esquerda/1"
+ },
+ {
+   "A": "660",
+   "B": "660 - Cj Palmeiras/Centro/1"
+ },
+ {
+   "A": "663",
+   "B": "663 - Gereberaba/Messejana/1"
+ },
+ {
+   "A": "665",
+   "B": "665 - Messejana/Centro (Corujão)/1"
+ },
+ {
+   "A": "666",
+   "B": "666 - Jardim Castelão/1"
+ },
+ {
+   "A": "670",
+   "B": "670 - Sítio São João/Centro/Expresso/1"
+ },
+ {
+   "A": "676",
+   "B": "676 - Curió/1"
+ },
+ {
+   "A": "680",
+   "B": "680 - José Walter/Papicu/Cidade Jardim/1"
+ },
+ {
+   "A": "681",
+   "B": "681 - Alameda das Palmeiras/1"
+ },
+ {
+   "A": "685",
+   "B": "685 - Messejana/Rodoviária/1"
+ },
+ {
+   "A": "686",
+   "B": "686 - São Bernardo/1"
+ },
+ {
+   "A": "690",
+   "B": "690 - Parque Santa Maria/Messejana/1"
+ },
+ {
+   "A": "696",
+   "B": "696 - Curió/Messejana/1"
+ },
+ {
+   "A": "701",
+   "B": "701 - Parque Americano/1"
+ },
+ {
+   "A": "702",
+   "B": "702 - Av. Antônio Sales/Dionísio Torres/1"
+ },
+ {
+   "A": "711",
+   "B": "711 - Barra do Ceará/Cais do Porto/1"
+ },
+ {
+   "A": "804",
+   "B": "804 - Aldeota/1"
+ },
+ {
+   "A": "806",
+   "B": "806 - Edson Queiroz/Papicu/1"
+ },
+ {
+   "A": "810",
+   "B": "810 - Papicu/Praia do Futuro/1"
+ },
+ {
+   "A": "813",
+   "B": "813 - Papicu/Praia do Futuro II/1"
+ },
+ {
+   "A": "813",
+   "B": "813 - Papicu/Praia do Futuro II/1 - Volt"
+ },
+ {
+   "A": "814",
+   "B": "814 - Papicu/Castelo Encantado/1"
+ },
+ {
+   "A": "815",
+   "B": "815 - Messejana/Papicu/Cj. Tancredo Neves/1"
+ },
+ {
+   "A": "816",
+   "B": "816 - Edson Queiroz/Centro/1"
+ },
+ {
+   "A": "820",
+   "B": "820 - Papicu/Cj Alvorada/1"
+ },
+ {
+   "A": "825",
+   "B": "825 - Cidade Func/Papicu/Jardim das Oliveiras/1"
+ },
+ {
+   "A": "831",
+   "B": "831 - Papicu/H Geral/Cidade 2000/1"
+ },
+ {
+   "A": "832",
+   "B": "832 - Papicu/Cidade 2000/1"
+ },
+ {
+   "A": "833",
+   "B": "833 - Cidade 2000/Centro/1"
+ },
+ {
+   "A": "835",
+   "B": "835 - Defensoria/Papicu/Via Câmara/1"
+ },
+ {
+   "A": "841",
+   "B": "841 - HGF/Papicu/Riomar/1"
+ },
+ {
+   "A": "855",
+   "B": "855 - Bezerra de Menezes/Washington Soares/1"
+ },
+ {
+   "A": "901",
+   "B": "901 - Dom Luiz/1"
+ },
+ {
+   "A": "903",
+   "B": "903 - Varjota/1"
+ },
+ {
+   "A": "905",
+   "B": "905 - Meireles/Centro/1"
+ },
+ {
+   "A": "906",
+   "B": "906 - Caça e Pesca/Serviluz/Centro/1"
+ },
+ {
+   "A": "907",
+   "B": "907 - Castelo Encantado/Centro/1"
+ },
+ {
+   "A": "909",
+   "B": "909 - Praia do Futuro/Caça e Pesca/Beira Mar/1"
+ },
+ {
+   "A": "913",
+   "B": "913 - Papicu/Serviluz/Varjota/1"
+ },
+ {
+   "A": "920",
+   "B": "920 - Papicu/Caça e Pesca/1"
+ }
+]
